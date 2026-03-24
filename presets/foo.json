@@ -1,1 +1,12 @@
-{"category":"News","description":"A collection of my favorite news stations.","name":"My Favorite Stations","stations":[{"color":"#FF5733","name":"WWOZ","url":"https://www.wwoz.org/listen/hi"}]}
+{
+  "category": "News",
+  "description": "A collection of my favorite news stations.",
+  "name": "My Favorite Stations",
+  "stations": [
+    {
+      "color": "#FF5777",
+      "name": "WWOZ",
+      "url": "https://www.wwoz.org/listen/hi"
+    }
+  ]
+}
