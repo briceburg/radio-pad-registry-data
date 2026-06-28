@@ -1,0 +1,77 @@
+{
+  "category": null,
+  "description": null,
+  "name": "Casa Briceburg",
+  "stations": [
+    {
+      "color": null,
+      "name": "wwoz",
+      "url": "https://www.wwoz.org/listen/hi"
+    },
+    {
+      "color": null,
+      "name": "wmse",
+      "url": "https://wmse.streamguys1.com/wmselivemp3"
+    },
+    {
+      "color": null,
+      "name": "gmcr",
+      "url": "http://stream.gmcr.org:8000/gmcr"
+    },
+    {
+      "color": null,
+      "name": "kunm",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
+    },
+    {
+      "color": null,
+      "name": "kmkb",
+      "url": "http://50.19.66.66:8000/kmkb"
+    },
+    {
+      "color": null,
+      "name": "kmrd",
+      "url": "https://kmrd.broadcasttool.stream/listen"
+    },
+    {
+      "color": null,
+      "name": "kkfi",
+      "url": "https://stream.pacificaservice.org:9000/kkfi_128"
+    },
+    {
+      "color": null,
+      "name": "wqxr",
+      "url": "https://stream.wqxr.org/wqxr-web?nyprBrowserId="
+    },
+    {
+      "color": null,
+      "name": "kboo",
+      "url": "https://live.kboo.fm:8443/high"
+    },
+    {
+      "color": null,
+      "name": "wxna",
+      "url": "http://listen.wxnafm.org:8000/stream"
+    },
+    {
+      "color": null,
+      "name": "kexp",
+      "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
+    },
+    {
+      "color": null,
+      "name": "GD.net",
+      "url": "http://108.163.245.230:8100/listen.pls"
+    },
+    {
+      "color": null,
+      "name": "wtju",
+      "url": "https://streams.wtju.net/wtju-live.mp3"
+    },
+    {
+      "color": null,
+      "name": "lofi",
+      "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+    }
+  ]
+}
