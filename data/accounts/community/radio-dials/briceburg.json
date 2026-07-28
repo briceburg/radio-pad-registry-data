@@ -1,0 +1,23 @@
+{
+  "description": null,
+  "discoverable": true,
+  "name": "Casa Briceburg",
+  "stations": [
+    "community/WWOZ",
+    "community/WMSE",
+    "community/GMCR",
+    "community/KUNM",
+    "community/KMKB",
+    "community/KMRD",
+    "community/KKFI",
+    "community/WQXR",
+    "community/KBOO",
+    "community/WXNA",
+    "community/KEXP",
+    "community/GD.NET",
+    "community/KSUT",
+    "community/KKCR",
+    "community/WTJU",
+    "community/LOFI"
+  ]
+}
