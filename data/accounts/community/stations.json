@@ -3,7 +3,7 @@
     "stream_url": "http://108.163.245.230:8100/listen.pls"
   },
   "GMCR": {
-    "stream_url": "http://stream.gmcr.org:8000/gmcr"
+    "stream_url": "http://23.152.64.7:8000/gmcr"
   },
   "KBOO": {
     "stream_url": "https://live.kboo.fm:8443/high"
@@ -12,7 +12,7 @@
     "stream_url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
   },
   "KKCR": {
-    "stream_url": "https://s8.phx.icastcenter.com:9000/stream"
+    "stream_url": "https://s8.phx.icastcenter.com:9000/stream#.mp3"
   },
   "KKFI": {
     "stream_url": "https://stream.pacificaservice.org:9000/kkfi_128"
@@ -46,5 +46,11 @@
   },
   "WXNA": {
     "stream_url": "http://listen.wxnafm.org:8000/stream"
+  },
+  "KNCE": {
+    "stream_url": "https://shoutcast.brownrice.com:8002/stream"
+  },
+  "KWMR": {
+    "stream_url": "https://listen.kwmr.org/live?nocache=0.35581241096449834?no-cache=0.8486817213194656"
   }
 }
