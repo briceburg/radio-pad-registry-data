@@ -1,6 +1,6 @@
 # RadioPad registry data
 
-The Registry reads and writes the `data/` namespace. Edit files under `data/accounts/`; the root-level `accounts/` directory is a legacy snapshot and is not read by the current Registry. The two trees are not synchronized.
+The Registry reads and writes the `data/` namespace. All account, station, dial, and player records live under `data/accounts/`.
 
 ```text
 data/accounts/<account>.json                         Account metadata
